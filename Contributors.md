@@ -1,5 +1,5 @@
-
 # Contributors
+- [Anany Singh](https://github.com/anany89)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Aviraj Gour](https://github.com/avirajsingh7)
 - [JaggedGem](https://github.com/JaggedGem)
